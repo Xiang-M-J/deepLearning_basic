@@ -1,0 +1,2 @@
+# deepLearning_basic
+记录一些关于深度学习一些基本的东西
